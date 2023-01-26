@@ -1,0 +1,8 @@
+.centered {
+    text-align: center;
+}
+body {
+    font-family: 'Inter';
+    background: rgb(0,255,29) linear-gradient(0deg, rgba(0,255,29,1) 0%, rgba(72,193,0,1) 100%) no-repeat;
+    color: black;
+}
